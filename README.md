@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jfva01
 - 👀 I’m interested in Web & Mobile Apps Development 
-- 🌱 I’m currently learning Git and React
+- 🌱 I’m currently working with ASP.NET C#
 - 💞️ I’m looking to collaborate on Software Development
-- 📫 How to reach me jvargasascanio@hotmail.com
+- 📫 How to reach me? jvargasascanio@hotmail.com
 
 <!---
 jfva01/jfva01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

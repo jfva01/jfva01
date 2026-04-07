@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jfva01
 - 👀 I’m interested in Web & Mobile Apps Development 
-- 🌱 I’m currently working with ASP.NET C#
+- 🌱 I’m currently working with .NET C#, React, SQL Server
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me? jvargasascanio@hotmail.com
 
